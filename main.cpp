@@ -15,4 +15,5 @@ int main()
 	cin >> a >> b;
 	int res = Sum(a,b);
 	cout << "Res = " << res << endl;
+	cout<<"New try"<<endl;
 }
